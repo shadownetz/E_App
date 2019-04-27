@@ -1,0 +1,29 @@
+/* Navigation Link */
+div.nav-link{ 
+    cursor: pointer;
+    transition: color .3s;
+}
+/* Features Icon on home page */
+.single_feature > .icon{
+    color:#012c57
+}
+/* Help on home page */
+.register_form input{
+    color: #495057
+}
+.register_form textarea{
+    resize: none;border:0;
+    border-radius:0;
+    border-bottom:1px solid #eeeeee;
+    font-size:inherit;
+    font-size: .9em
+}
+.register_form textarea:focus{
+    box-shadow: none;
+    border-color:#eeeeee
+}
+/* footer padding */
+footer.footer-area.gap{
+    padding-top:2px;
+    padding-bottom:20px
+}
